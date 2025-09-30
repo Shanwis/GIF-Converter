@@ -27,8 +27,8 @@ This tool relies on a few key Python libraries to work its magic:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/Shanwis/GIF-Converter](https://github.com/Shanwis/GIF-Converter)
+    cd GIF-Converter
     ```
 
 2.  **Install the required Python libraries:**
