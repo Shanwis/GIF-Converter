@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / C files
+__pycache__/
+*.pyc
+*.$py.class
+
+# Virtual Environments
+/venv
+/env
+.venv
+*.venv
+
+# Build artifacts and distribution
+/dist
+/build
+*.egg-info
+
+# Generated output files
+/output
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
