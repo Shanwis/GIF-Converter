@@ -98,3 +98,7 @@ options:
   -o OUTPUT, --output OUTPUT
                         Output GIF file name
 ```
+
+## ## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
