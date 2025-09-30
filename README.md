@@ -1,4 +1,4 @@
-# Video to GIF Creator (Name is a work in progress)
+# GIF me More
 
 A command-line tool to quickly create high-quality animated GIFs from video files using Python. You can trim the video, adjust speed and FPS, resize the output, and add custom text overlays. 
 
