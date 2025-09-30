@@ -27,7 +27,7 @@ This tool relies on a few key Python libraries to work its magic:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Shanwis/GIF-Converter](https://github.com/Shanwis/GIF-Converter)
+    git clone https://github.com/Shanwis/GIF-Converter.git
     cd GIF-Converter
     ```
 
